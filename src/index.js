@@ -14,7 +14,7 @@ const Template = () => {
           <App />
         </Provider>
     );
-}
+};
 
 ReactDOM.render(
     <Template />
